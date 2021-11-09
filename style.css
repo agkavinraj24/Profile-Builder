@@ -1,0 +1,49 @@
+body{
+  font-family: roboto;
+}
+.body_align{
+  margin-top: 10px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 80px;
+}
+.image{
+  border-radius: 110px;
+  width: 180px;
+  height: 180px;
+  margin-left: 150px;
+  margin-top: 20px;
+}
+.name{
+   font-size: large;
+   font-weight:bolder;
+}
+h1{
+  margin-left: 50px;
+  font-size: 2em;
+}
+.title
+{
+  background-color:rgba(54, 107, 131, 0.774);
+  color: white;
+  margin-left: -20px;
+  margin-right: 70px;
+  font-size: 1.2em;
+  align-content: center;
+  margin-top: 40px;
+}
+.para{
+  padding-right: 150px;
+}
+.text{
+  padding-top: 10px;
+  margin-left: -30px;
+}
+.one{
+  display: flex;
+
+}
+.contact{
+  margin-left: 250px;
+  margin-top: 20px;
+}
